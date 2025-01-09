@@ -225,6 +225,7 @@ public class Matrix_solution {
              int row = sc.nextInt();
              System.out.print("give number of columns of your matrix :");
              int col = sc.nextInt();
+             System.out.println("give elements of your matrix :-");
              int [][] matrix = new int[row][col];
                 for(int i = 0  ; i < row ; i++){
                     for (int j = 0 ; j < col ; j++ ){
