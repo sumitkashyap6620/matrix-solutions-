@@ -330,4 +330,4 @@ public class Matrix_solution {
    sc.close(); }
   }
 
-}
+}  
